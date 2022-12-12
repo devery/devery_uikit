@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E3E8F6;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#CDD1E2;stroke-width:1.4343;stroke-miterlimit:10;}
+	.st3{opacity:0.6;fill:#CDD1E2;enable-background:new    ;}
+	.st4{fill:#CDD1E2;}
+	.st5{fill:#8E8BB2;}
+	.st6{font-family:'Poppins-Bold';}
+	.st7{font-size:8.2878px;}
+	.st8{fill:none;stroke:#28387C;stroke-width:1.9124;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#28387C;stroke-width:4;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#8E8BB2;stroke-width:1.4343;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#8E8BB2;stroke-width:1.4343;stroke-miterlimit:10;stroke-dasharray:1.4711,1.4711;}
+	.st12{fill:none;stroke:#8E8BB2;stroke-width:1.4343;stroke-miterlimit:10;stroke-dasharray:1.3446,1.3446;}
+	.st13{fill:#C4C2D7;}
+	.st14{fill:#ABA8C5;}
+</style>
+<g>
+	<path class="st0" d="M37.5,46.8h-24c-2.1,0-3.8-1.7-3.8-3.8V26.1c0-2.1,1.7-3.8,3.8-3.8h24c2.1,0,3.8,1.7,3.8,3.8v16.8
+		C41.3,45,39.6,46.8,37.5,46.8z"/>
+	<g>
+		<path class="st1" d="M53.2,40.7H30.7c-2.1,0-3.8-1.7-3.8-3.8V15.7c0-2.1,1.7-3.8,3.8-3.8h22.6c2.1,0,3.8,1.7,3.8,3.8v21.2
+			C57,39,55.3,40.7,53.2,40.7z"/>
+		<path class="st2" d="M53.2,40.7H30.7c-2.1,0-3.8-1.7-3.8-3.8V15.7c0-2.1,1.7-3.8,3.8-3.8h22.6c2.1,0,3.8,1.7,3.8,3.8v21.2
+			C57,39,55.3,40.7,53.2,40.7z"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<line class="st2" x1="33.7" y1="31.2" x2="50.2" y2="31.1"/>
+				</g>
+				<g>
+					<line class="st2" x1="33.7" y1="35.8" x2="50.2" y2="35.7"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<rect x="38.9" y="16.2" class="st2" width="10.6" height="10.6"/>
+			<polygon class="st3" points="42.9,23.9 45.8,26.8 49.5,26.8 49.5,21.8 47.3,19.5 			"/>
+			<polygon class="st4" points="40.9,22 38.9,24.1 38.9,26.8 45.8,26.8 			"/>
+			<circle class="st3" cx="41.6" cy="19.2" r="1.2"/>
+		</g>
+	</g>
+	<path class="st5" d="M30.7,26.4H9c-1.1,0-2-0.9-2-2v-7.9c0-1.1,0.9-2,2-2h21.7c1.1,0,2,0.9,2,2v7.9C32.7,25.5,31.8,26.4,30.7,26.4z
+		"/>
+	<text transform="matrix(1 0 0 1 9.2441 23.6082)" class="st1 st6 st7">0x00</text>
+	<g>
+		<circle class="st8" cx="30.6" cy="20.6" r="8.6"/>
+		<line class="st9" x1="37.6" y1="26.6" x2="41.4" y2="30.4"/>
+	</g>
+	<g>
+		<g>
+			<line class="st10" x1="20.1" y1="40.4" x2="19.3" y2="40.4"/>
+			<line class="st11" x1="17.9" y1="40.4" x2="15.7" y2="40.4"/>
+			<polyline class="st10" points="14.9,40.4 14.2,40.4 14.2,39.7 			"/>
+			<line class="st12" x1="14.2" y1="38.4" x2="14.2" y2="25.6"/>
+			<line class="st10" x1="14.2" y1="24.9" x2="14.2" y2="24.2"/>
+		</g>
+	</g>
+	<g>
+		<polygon class="st13" points="25,50.6 25,45.7 19.1,42.1 		"/>
+		<polygon class="st14" points="30.9,42.1 25,45.7 25,50.6 		"/>
+		<polygon class="st14" points="31.1,41 31.1,40.9 25,30.8 25,38.1 		"/>
+		<polygon class="st13" points="25,30.8 18.9,40.9 18.9,41 25,38.1 		"/>
+		<polygon class="st5" points="31.1,41 25,38.1 25,44.6 30.6,41.3 		"/>
+		<polygon class="st14" points="18.9,41 19.4,41.3 25,44.6 25,38.1 		"/>
+	</g>
+	<line class="st10" x1="18.3" y1="52.1" x2="31.7" y2="52.1"/>
+</g>
+</svg>

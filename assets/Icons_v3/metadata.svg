@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#8E8BB2;stroke-width:1.4343;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#8E8BB2;stroke-width:1.4343;stroke-miterlimit:10;stroke-dasharray:1.4012,1.4012;}
+	.st2{fill:none;stroke:#8E8BB2;stroke-width:1.4343;stroke-miterlimit:10;stroke-dasharray:1.4583,1.4583;}
+	.st3{fill:none;stroke:#8E8BB2;stroke-width:1.4343;stroke-miterlimit:10;stroke-dasharray:1.6253,1.6253;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#E3E8F6;}
+	.st6{fill:none;stroke:#CDD1E2;stroke-width:1.4343;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#CDD1E2;stroke-width:1.4343;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#8E8BB2;stroke-width:1.4343;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#28387C;stroke-width:1.4343;stroke-miterlimit:10;}
+	.st10{fill:#28387C;}
+	.st11{fill:#CDD1E2;stroke:#8E8BB2;stroke-width:1.4343;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#FFFFFF;stroke:#28387C;stroke-width:0.9281;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#28387C;stroke-width:0.9281;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<line class="st0" x1="28" y1="47.3" x2="27.3" y2="47.3"/>
+			<line class="st1" x1="25.9" y1="47.3" x2="12.6" y2="47.3"/>
+			<polyline class="st0" points="11.9,47.3 11.2,47.3 11.2,46.5 			"/>
+			<line class="st2" x1="11.2" y1="45.1" x2="11.2" y2="22.5"/>
+			<polyline class="st0" points="11.2,21.8 11.2,21 11.9,21 			"/>
+			<line class="st3" x1="13.5" y1="21" x2="15.9" y2="21"/>
+			<line class="st0" x1="16.7" y1="21" x2="17.5" y2="21"/>
+		</g>
+	</g>
+	<g>
+		<path class="st4" d="M39,30.1H28.8c-2.1,0-3.8-1.7-3.8-3.8V15.8c0-2.1,1.7-3.8,3.8-3.8H39c2.1,0,3.8,1.7,3.8,3.8v10.5
+			C42.9,28.4,41.2,30.1,39,30.1z"/>
+		<path class="st5" d="M37.5,27.3h-7.1c-1.5,0-2.6-1.2-2.6-2.6v-7.2c0-1.5,1.2-2.6,2.6-2.6h7.1c1.5,0,2.6,1.2,2.6,2.6v7.2
+			C40.1,26.1,38.9,27.3,37.5,27.3z"/>
+		<path class="st6" d="M24.9,17.5v-1.7c0-2.1,1.7-3.8,3.8-3.8H39c2.1,0,3.8,1.7,3.8,3.8v1.7"/>
+		<path class="st6" d="M42.9,24.6v1.7c0,2.1-1.7,3.8-3.8,3.8H28.8c-2.1,0-3.8-1.7-3.8-3.8v-1.7"/>
+		<g>
+			<g>
+				<g>
+					<g>
+						<line class="st6" x1="25.3" y1="21" x2="15.7" y2="21"/>
+						<circle class="st7" cx="16.1" cy="21" r="1.6"/>
+						<g>
+							<g>
+								<polyline class="st6" points="30.5,24.6 23.8,24.6 20.6,27.8 								"/>
+								<circle class="st6" cx="19.8" cy="28.6" r="1.6"/>
+							</g>
+							<g>
+								<polyline class="st6" points="30.5,17.5 23.8,17.5 20.6,14.3 								"/>
+								<circle class="st6" cx="19.8" cy="13.5" r="1.6"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g>
+						<line class="st6" x1="42.5" y1="21" x2="50.2" y2="21"/>
+						<circle class="st6" cx="51.7" cy="21" r="1.6"/>
+						<g>
+							<g>
+								<polyline class="st6" points="37.3,17.5 44,17.5 47.2,14.3 								"/>
+								<circle class="st6" cx="48" cy="13.5" r="1.6"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<path class="st8" d="M28.1,37.3l-0.2-1c-0.1-0.4-0.4-0.7-0.8-0.7h-4.5c-0.5,0-0.8,0.4-0.8,0.8V38v3v10.2c0,0.5,0.4,0.8,0.8,0.8H42
+		c0.5,0,0.8-0.4,0.8-0.8V38.9c0-0.5-0.4-0.8-0.8-0.8H29C28.5,38.1,28.1,37.8,28.1,37.3z"/>
+	<g>
+		<g>
+			<path class="st4" d="M53.2,46H37.7c-2.1,0-3.8-1.7-3.8-3.8V29c0-2.1,1.7-3.8,3.8-3.8h15.6c2.1,0,3.8,1.7,3.8,3.8v13.2
+				C57.1,44.3,55.4,46,53.2,46z"/>
+			<path class="st9" d="M53.2,46H37.7c-2.1,0-3.8-1.7-3.8-3.8V29c0-2.1,1.7-3.8,3.8-3.8h15.6c2.1,0,3.8,1.7,3.8,3.8v13.2
+				C57.1,44.3,55.4,46,53.2,46z"/>
+		</g>
+		<g>
+			<path class="st10" d="M37.9,35c0.3,0,0.5-0.1,0.6-0.2c0.1-0.1,0.2-0.3,0.2-0.5s0-0.4-0.1-0.9c0,0,0-0.2-0.1-0.4
+				c0-0.2,0-0.5,0-0.7c0-0.5,0.1-0.8,0.4-1.1c0.3-0.3,0.7-0.4,1.2-0.4h0.6V32h-0.3c-0.2,0-0.3,0-0.4,0.1c-0.1,0.1-0.1,0.2-0.1,0.4
+				c0,0.1,0,0.4,0.1,0.8c0.1,0.5,0.1,0.9,0.1,1.1c0,0.3-0.1,0.6-0.2,0.8s-0.4,0.3-0.7,0.4l0,0c0.3,0.1,0.5,0.2,0.7,0.4
+				c0.1,0.2,0.2,0.5,0.2,0.8c0,0.2,0,0.5-0.1,1.1c0,0.4-0.1,0.7-0.1,0.8c0,0.2,0,0.3,0.1,0.4c0.1,0.1,0.2,0.1,0.4,0.1h0.3v1.2h-0.6
+				c-0.5,0-0.9-0.1-1.2-0.4s-0.4-0.6-0.4-1.1c0-0.2,0-0.4,0-0.7c0-0.2,0-0.4,0.1-0.4c0.1-0.4,0.1-0.7,0.1-0.9s-0.1-0.3-0.2-0.5
+				c-0.1-0.1-0.3-0.2-0.6-0.2V35z"/>
+			<path class="st10" d="M52.5,36.4c-0.1,0.1-0.2,0.3-0.2,0.5s0,0.5,0.1,0.9c0,0,0,0.2,0.1,0.4c0,0.2,0,0.5,0,0.7
+				c0,0.5-0.1,0.9-0.4,1.1c-0.3,0.3-0.7,0.4-1.2,0.4h-0.6v-1.2h0.3c0.2,0,0.3,0,0.4-0.1c0.1-0.1,0.1-0.2,0.1-0.4
+				c0-0.1,0-0.4-0.1-0.8c-0.1-0.5-0.1-0.9-0.1-1.1c0-0.3,0.1-0.6,0.2-0.8c0.1-0.2,0.4-0.3,0.7-0.4l0,0c-0.3-0.1-0.5-0.2-0.7-0.4
+				s-0.2-0.5-0.2-0.8c0-0.2,0-0.5,0.1-1.1c0-0.4,0.1-0.7,0.1-0.8c0-0.2,0-0.3-0.1-0.4C50.9,32,50.8,32,50.6,32h-0.3v-1.2h0.6
+				c0.5,0,0.9,0.1,1.2,0.4s0.4,0.6,0.4,1.1c0,0.2,0,0.4,0,0.7c0,0.2,0,0.4-0.1,0.4c-0.1,0.4-0.1,0.7-0.1,0.9s0.1,0.4,0.2,0.5
+				c0.1,0.1,0.3,0.2,0.6,0.2v1.1C52.8,36.2,52.6,36.2,52.5,36.4z"/>
+		</g>
+		<g>
+			<rect x="42.4" y="36" class="st10" width="1.2" height="1.2"/>
+			<rect x="44.9" y="36" class="st10" width="1.2" height="1.2"/>
+			<rect x="47.3" y="36" class="st10" width="1.2" height="1.2"/>
+		</g>
+	</g>
+	<path class="st11" d="M24.5,40.5V50c0,2-1.4,2.1-1.4,2.1h18.6c0.3,0,0.6-0.2,0.6-0.6v-11H24.5z"/>
+	<g>
+		<circle class="st12" cx="11.2" cy="32.7" r="4.2"/>
+		<ellipse class="st12" cx="11.2" cy="32.7" rx="1.8" ry="4.2"/>
+		<g>
+			<line class="st13" x1="7.8" y1="30.3" x2="14.6" y2="30.3"/>
+			<line class="st13" x1="7.8" y1="35.2" x2="14.6" y2="35.2"/>
+		</g>
+		<line class="st13" x1="6.9" y1="32.7" x2="15.4" y2="32.7"/>
+	</g>
+</g>
+</svg>
